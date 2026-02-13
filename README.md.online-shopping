@@ -1,0 +1,23 @@
+# Online Shopping Website
+
+This is a basic Online Shopping Website built using HTML, CSS and JavaScript.
+
+## Features
+- Product listing page
+- Add to cart functionality
+- Simple and clean user interface
+- Responsive design
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Description
+This project is created for learning and practicing front-end web development.
+It demonstrates basic e-commerce website structure and functionality.
+
+## Future Improvements
+- Payment gateway integration
+- User login system
+- Database integration

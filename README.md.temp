@@ -1,0 +1,12 @@
+# Temperature Converter
+
+A simple temperature converter that converts Celsius to Fahrenheit and vice versa.
+
+## Features
+- Celsius to Fahrenheit
+- Fahrenheit to Celsius
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
